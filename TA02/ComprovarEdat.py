@@ -9,5 +9,5 @@ Descripció: Exemple dels apunts
 edat=int(input("Quina edat tens?"))
 if edat>=18:
     print("Ets major d'edat")
-
+nigga
 print("Programa Finalitzat")
